@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="Speech Recognition Logo" width="200">
+  <img src="logo.png" alt="Speech Recognition Logo" width="200">
 </p>
 
 <h1 align="center"> Speech Recognition Dataset </h>
